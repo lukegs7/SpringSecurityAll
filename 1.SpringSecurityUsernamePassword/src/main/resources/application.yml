@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+# 第一种用户名和密码的实现方式
+#spring:
+#  security:
+#    user:
+#      name: admin
+#      password: admin
